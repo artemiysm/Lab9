@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" modified="2024-04-27T05:22:56.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fQEwFqmMYtfG0fBwquWA" version="24.2.7" type="device">
+  <diagram name="Страница — 1" id="m-sQfRKrOvXeBo0wSmBC">
+    <mxGraphModel dx="1194" dy="716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="suDCfBg5-HojD45NWHzA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suDCfBg5-HojD45NWHzA-1" target="suDCfBg5-HojD45NWHzA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="59" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="suDCfBg5-HojD45NWHzA-2" target="suDCfBg5-HojD45NWHzA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-2" value="Объявление массива FirstArray" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="173" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="suDCfBg5-HojD45NWHzA-3" target="suDCfBg5-HojD45NWHzA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-3" value="Объявление массива SecondArray" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="276" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="suDCfBg5-HojD45NWHzA-4" target="suDCfBg5-HojD45NWHzA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-4" value="Вызов функции" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="379" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-5" value="Объявление переменной A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="482" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="suDCfBg5-HojD45NWHzA-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275.75" y="604" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suDCfBg5-HojD45NWHzA-10" target="suDCfBg5-HojD45NWHzA-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="676" y="649" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-10" value="For(Проходим по массиву чисел FirstArray)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275.75" y="566" width="282.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suDCfBg5-HojD45NWHzA-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433" y="786" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-11" value="Выводим второй массив элементов который делится на 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-13" value="Да&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="168" y="562" width="33" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suDCfBg5-HojD45NWHzA-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433" y="779" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-16" value="Вывод первый массив элементов который не делится на 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="613" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-17" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="613" y="574" width="38" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suDCfBg5-HojD45NWHzA-20" target="suDCfBg5-HojD45NWHzA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-20" value="Сортируем по возрастанию оба массива&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="776" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suDCfBg5-HojD45NWHzA-21" target="suDCfBg5-HojD45NWHzA-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-21" value="Вывод результат" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="907" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="suDCfBg5-HojD45NWHzA-24" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1004" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
